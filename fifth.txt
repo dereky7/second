@@ -1,1 +1,7 @@
+11111111111
+<<<<<<< HEAD
 this fifth text file,test2 modify
+=======
+this fifth text file,mytest modify
+>>>>>>> 9554f0b354eaab592b36f462c8abe4ee708d5edb
+2222222222
